@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sycale
-- 👀 I’m interested in <b>Java Backend & React Frontend</b>
-- 🌱 I’m currently learning <b>Java Backend </b>
-- 💞️ I’m looking to collaborate on <b>Full Stack development</b>
-- 📫 How to reach me sankai1917@gmail.com
+
